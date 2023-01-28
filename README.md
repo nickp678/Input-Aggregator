@@ -11,6 +11,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install seleniu
 ```bash
 pip install selenium
 ```
+Download the inputaggreator.py file from github
 
 ## Usage
 
